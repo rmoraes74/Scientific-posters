@@ -1,2 +1,2 @@
-# Scientific-posters
+# Posters-CBCM
 PDF files of posters presented at scientific conferences
